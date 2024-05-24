@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [mudzoj](https://github.com/mudzoj)
+- Email: jalal.mud@gmail.com
 
 Thank you for checking out my project! I hope you enjoy playing my Donkey Kong 1986 rendition as much as I enjoyed creating it.
