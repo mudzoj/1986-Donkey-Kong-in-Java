@@ -41,18 +41,15 @@ To run this game, you'll need to have Processing installed on your computer. Fol
 ## How to Play
 
 - Use the arrow keys to move the character.
-- Press the spacebar to jump.
+- Use UP arrow to jump and use ladders
 - Avoid enemies and obstacles to reach the top of the level.
 
 ## Screenshots
 
 Here are some screenshots of the game in action:
 
-![Screenshot 1](Screenshots/OriginalGame.png)
-*Description of Screenshot 1*
-
-![Screenshot 2](Screenshots/Game1.png)
-*Description of Screenshot 2*
+![Screenshot 1](Screenshots/Game1.png)
+*Here's the game in action, similar to the arcade games layout with some style changes!*
 
 
 
