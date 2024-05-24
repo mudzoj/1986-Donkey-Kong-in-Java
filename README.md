@@ -48,13 +48,13 @@ To run this game, you'll need to have Processing installed on your computer. Fol
 
 Here are some screenshots of the game in action:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Screenshots/OriginalGame)
 *Description of Screenshot 1*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Screenshots/Game1)
 *Description of Screenshot 2*
 
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](Screenshots/Game2)
 *Description of Screenshot 3*
 
 ## Future Improvements
