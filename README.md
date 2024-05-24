@@ -1,6 +1,6 @@
 # 1986 Donkey Kong Rendition
 
-Welcome to my first game development project! This repository contains my rendition of the classic 1986 Donkey Kong game, developed using Java's full-featured profiler, Processing. This project marks the beginning of my journey in game development, sparking a deep passion for coding and game design.
+Welcome to my first game development project! This repository contains my rendition of the classic 1986 Donkey Kong game, developed in 2020 using Java's full-featured profiler, Processing. This project marks the beginning of my journey in game development, sparking a deep passion for coding and game design.
 
 ## Table of Contents
 - [Introduction](#introduction)
