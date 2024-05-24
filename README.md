@@ -48,7 +48,7 @@ To run this game, you'll need to have Processing installed on your computer. Fol
 
 Here are some screenshots of the game in action:
 
-![Screenshot 1](Screenshots/OriginalGame.png)
+![Screenshot 1](Screenshots/A.png)
 *Description of Screenshot 1*
 
 ![Screenshot 2](Screenshots/Game1.png)
