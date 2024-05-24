@@ -49,7 +49,7 @@ To run this game, you'll need to have Processing installed on your computer. Fol
 Here are some screenshots of the game in action:
 
 ![Screenshot 1](Screenshots/Game1.png)
-*Here's the game in action, similar to the arcade games layout with some style changes!*
+*Note the similar layout to the orginal!
 
 
 
