@@ -10,7 +10,6 @@ Welcome to my first game development project! This repository contains my rendit
 - [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -68,9 +67,6 @@ There are several areas where this game can be enhanced:
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. You can also open issues to report bugs or suggest enhancements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
